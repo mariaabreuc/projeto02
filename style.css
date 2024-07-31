@@ -21,7 +21,7 @@ body {
     padding: 0;
     }
     .principal {
-        background-image: url("img/Background.png");
+        background-image: url("img/background.png");
         background-repeat: no-repeat;
         width: 100%;
     }
